@@ -1,10 +1,10 @@
 import React from 'react';
 import {NavLink} from "react-router-dom";
 import InputRadio from "./InputRadio";
-import facade01 from "../media/facade/01.png"
+import facade01 from "../media/facade/01.jpg"
 import facade02 from "../media/facade/02.jpg"
 import facade03 from "../media/facade/03.jpg"
-import facade04 from "../media/facade/04.png"
+import facade04 from "../media/facade/04.jpg"
 import facade05 from "../media/facade/05.jpg"
 import facade07 from "../media/facade/07.png"
 

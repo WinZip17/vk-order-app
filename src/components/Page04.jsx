@@ -27,8 +27,8 @@ const Page04 = (props) => {
                             value="worktopType1" id="МДФ и ДСП (26мм)" checked={props.worktopType}/>
                 <InputRadio changeInput={props.setWorktopType} header="МДФ и ДСП (38мм)" img={WT02} name="worktopType"
                             value="worktopType2" id="МДФ и ДСП (38мм)" checked={props.worktopType}/>
-                <InputRadio changeInput={props.setWorktopType} header="Искуственный камень" img={WT03}
-                            name="worktopType" value="worktopType3" id="Искуственный камень"
+                <InputRadio changeInput={props.setWorktopType} header="Искусственный камень" img={WT03}
+                            name="worktopType" value="worktopType3" id="Искусственный камень"
                             checked={props.worktopType}/>
                 <InputRadio changeInput={props.setWorktopType} header="Не могу выбрать" img={WT04} name="worktopType"
                             value="worktopType4" id="Не могу выбрать" checked={props.worktopType}/>

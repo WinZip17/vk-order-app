@@ -8,6 +8,7 @@ import pr3 from "../media/present/03.png";
 import pr4 from "../media/present/04.png";
 
 
+
 const Page09 = (props) => {
 
     return (
@@ -44,8 +45,10 @@ const Page09 = (props) => {
                 <input className="consentInput" type="checkbox" id="consent" checked={props.state.isСonsent}
                        onChange={props.setСonsent}/>
                 <label htmlFor="consent" className="consentInputLabel"/>
-                <label className="pointer mb-0" htmlFor="consent"> Я принимаю </label> <a
-                href="https://vk.com/page-19542789_53648424"> условия передачи информации </a>
+                <div>
+                    <label className="pointer mb-0" htmlFor="consent"> Я принимаю </label> <a
+                    href="https://vk.com/page-19542789_53648424"> условия передачи информации </a>
+                </div>
             </div>
             <NavLink to="/page07" className="btn btn-link mx-auto"> {"<"} назад </NavLink>
         </div>

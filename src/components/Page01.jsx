@@ -28,7 +28,7 @@ const Page01 = (props) => {
                             id="Угловая" checked={props.layout}/>
                 <InputRadio changeInput={props.changeInput} header="П-образная" img={img03} name="layout"
                             value="layout3" id="П-образная" checked={props.layout}/>
-                <InputRadio changeInput={props.changeInput} header="Остравная" img={img04} name="layout" value="layout4"
+                <InputRadio changeInput={props.changeInput} header="Островная" img={img04} name="layout" value="layout4"
                             id="Остравная" checked={props.layout}/>
             </div>
             <NavLink to="/page02" className="buttonGo"> Перейти к шагу 2 ></NavLink>

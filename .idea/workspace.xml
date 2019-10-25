@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="609339fb-737e-4c04-9a67-fae43bbe0d66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page01.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page01.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page02.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page02.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page03.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page03.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page04.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page04.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page09.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page09.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Сongratulation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Сongratulation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/checkboxInputPage9.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/checkboxInputPage9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Сongratulation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Сongratulation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/facade/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/facade/04.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app-from-t2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -103,6 +115,12 @@
       <workItem from="1571607629397" duration="540000" />
       <workItem from="1571648177119" duration="1144000" />
       <workItem from="1571651855699" duration="152000" />
+      <workItem from="1571652100034" duration="175000" />
+      <workItem from="1571668420447" duration="4251000" />
+      <workItem from="1571730249619" duration="1504000" />
+      <workItem from="1571755309909" duration="236000" />
+      <workItem from="1571756483492" duration="608000" />
+      <workItem from="1571817852316" duration="2128000" />
     </task>
     <servers />
   </component>

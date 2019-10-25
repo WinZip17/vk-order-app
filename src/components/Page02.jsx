@@ -62,7 +62,7 @@ const Page02 = (props) => {
                                id='isKnowSize' checked={props.kitchenSizes.isKnowSize} onChange={props.isKnowSizeAC}/>
                         <label htmlFor='isKnowSize' className="insteadRadio"> </label>
                     </div>
-                    <label htmlFor='isKnowSize' className='align-self-center'>незнаю размеров</label></div>
+                    <label htmlFor='isKnowSize' className='align-self-center'>не знаю размеров</label></div>
             </div>
 
             <NavLink to="/page03" className="buttonGo"> Перейти к шагу 3</NavLink>
