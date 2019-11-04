@@ -21,15 +21,12 @@ const Page04 = (props) => {
                      style={{width: '48%'}}
                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
-            <div className='w-100'><h2 className='text-center'>Выберите тип столешницы</h2></div>
+            <div className='w-100'><h2 className='text-center'>Какую столешницу хотите для кухни?</h2></div>
             <div className="inputContainer">
-                <InputRadio changeInput={props.setWorktopType} header="МДФ и ДСП (26мм)" img={WT01} name="worktopType"
-                            value="worktopType1" id="МДФ и ДСП (26мм)" checked={props.worktopType}/>
-                <InputRadio changeInput={props.setWorktopType} header="МДФ и ДСП (38мм)" img={WT02} name="worktopType"
-                            value="worktopType2" id="МДФ и ДСП (38мм)" checked={props.worktopType}/>
-                <InputRadio changeInput={props.setWorktopType} header="Искусственный камень" img={WT03}
-                            name="worktopType" value="worktopType3" id="Искусственный камень"
-                            checked={props.worktopType}/>
+                <InputRadio changeInput={props.setWorktopType} header="МДФ или ДСП (26мм)" img={WT01} name="worktopType"
+                            value="worktopType1" id="МДФ или ДСП (26мм)" checked={props.worktopType}/>
+                <InputRadio changeInput={props.setWorktopType} header="МДФ или ДСП (38мм)" img={WT02} name="worktopType"
+                            value="worktopType2" id="МДФ или ДСП (38мм)" checked={props.worktopType}/>
                 <InputRadio changeInput={props.setWorktopType} header="Не могу выбрать" img={WT04} name="worktopType"
                             value="worktopType4" id="Не могу выбрать" checked={props.worktopType}/>
             </div>

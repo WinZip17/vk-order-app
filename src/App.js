@@ -17,7 +17,7 @@ import Page08 from "./components/Page08";
 import Page09 from "./components/Page09";
 import {
     isKnowSizeAC, setBudgetAC,
-    setFacadeAC, setFormsThunkCreator, setHardwareClassAC, setInstallationDateAC,
+    setFacadeAC, setHardwareClassAC, setInstallationDateAC,
     setLayoutAC, setPaymentMethodAC, setPresentAC, setReadyAC,
     setSizeAAC,
     setSizeBAC,

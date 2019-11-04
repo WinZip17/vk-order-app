@@ -20,7 +20,7 @@ const Page01 = (props) => {
                      style={{width: '12%'}}
                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
-            <div className='w-100'><h2 className='text-center'>Какой планировки Ваша кухня?</h2></div>
+            <div className='w-100'><h2 className='text-center'>Какой планировки хотите сделать кухню?</h2></div>
             <div className="inputContainer">
                 <InputRadio changeInput={props.changeInput} header="Прямая" img={img01} name="layout" value="layout1"
                             id="Прямая" checked={props.layout}/>

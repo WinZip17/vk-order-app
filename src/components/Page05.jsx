@@ -1,9 +1,9 @@
 import React from 'react';
 import {NavLink} from "react-router-dom";
 import InputRadio from "./InputRadio";
-import h01 from "../media/hardwareClass/01.png";
-import h02 from "../media/hardwareClass/02.png";
-import h03 from "../media/hardwareClass/03.png";
+import h01 from "../media/hardwareClass/01.jpg";
+import h02 from "../media/hardwareClass/02.jpg";
+import h03 from "../media/hardwareClass/03.jpg";
 import h04 from "../media/hardwareClass/04.png";
 
 
@@ -21,7 +21,7 @@ const Page05 = (props) => {
                      style={{width: '60%'}}
                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
-            <div className='w-100'><h2 className='text-center'>Выберите класс фурнитуры</h2></div>
+            <div className='w-100'><h2 className='text-center'>Какой класс фурнитуры хотите для кухни?</h2></div>
             <div className="inputContainer">
                 <InputRadio changeInput={props.setHardwareClass} header="Эконом" img={h01} name="hardwareClass"
                             value="hardwareClass1" id="Эконом" checked={props.hardwareClass}/>

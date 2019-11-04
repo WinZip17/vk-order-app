@@ -8,13 +8,17 @@
       <change beforePath="$PROJECT_DIR$/src/components/Page02.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page02.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Page03.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page03.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Page04.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page04.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page05.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page05.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page07.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page07.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Page08.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page08.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Page09.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Page09.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Сongratulation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Сongratulation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/checkboxInputPage9.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/checkboxInputPage9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Сongratulation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Сongratulation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/facade/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/media/facade/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/hardwareClass/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/hardwareClass/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/hardwareClass/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/present/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/media/present/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/present/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/media/present/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/present/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/media/present/03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/media/present/04.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app-from-t2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vk-order-app-p2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,6 +125,11 @@
       <workItem from="1571755309909" duration="236000" />
       <workItem from="1571756483492" duration="608000" />
       <workItem from="1571817852316" duration="2128000" />
+      <workItem from="1571995788623" duration="638000" />
+      <workItem from="1572534674664" duration="445000" />
+      <workItem from="1572876582279" duration="959000" />
+      <workItem from="1572877903140" duration="384000" />
+      <workItem from="1572878360088" duration="458000" />
     </task>
     <servers />
   </component>

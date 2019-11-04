@@ -25,7 +25,7 @@ const Page02 = (props) => {
                      style={{width: '24%'}}
                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
-            <div className='w-100'><h2 className='text-center'>Какой планировки Ваша кухня?</h2></div>
+            <div className='w-100'><h2 className='text-center'>Укажите размеры кухни</h2></div>
             <div className="inputContainerSize">
                 <div className="inputContainerSizeImgAС mb-4 align-items-center align-self-center">
                     {props.layout === "Прямая" || props.layout === "Угловая" || props.layout === "Остравная" ?

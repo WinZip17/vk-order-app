@@ -20,16 +20,16 @@ const Page07 = (props) => {
             <div className='w-100'><h2 className='text-center mb-3'>В какой бюджет планируете уложиться?</h2></div>
             <div className="w-100 text-center">
                 <div className="inputTextContainer ">
-                    <InputRadioText changeInput={props.setBudget} text="До 20 000 руб." name="budget1" value="budget1"
-                                    id="До 20 000 руб." checked={props.budget}/>
-                    <InputRadioText changeInput={props.setBudget} text="От 30 000 - 40 000 руб." name="budget2"
-                                    value="budget2" id="От 30 000 - 40 000 руб." checked={props.budget}/>
-                    <InputRadioText changeInput={props.setBudget} text="От 50 000 - 60 000 руб." name="budget3"
-                                    value="budget3" id="От 50 000 - 60 000 руб." checked={props.budget}/>
-                    <InputRadioText changeInput={props.setBudget} text="От 70 000 - 80 000 руб." name="budget4"
-                                    value="budget4" id="От 70 000 - 80 000 руб." checked={props.budget}/>
-                    <InputRadioText changeInput={props.setBudget} text="Более 90 000 руб." name="budget5"
-                                    value="budget5" id="Более 90 000 руб." checked={props.budget}/>
+                    <InputRadioText changeInput={props.setBudget} text="До 50 000 руб." name="budget1" value="budget1"
+                                    id="До 50 000 руб." checked={props.budget}/>
+                    <InputRadioText changeInput={props.setBudget} text="От 50 000 - 70 000 руб." name="budget2"
+                                    value="budget2" id="От 50 000 - 70 000  руб." checked={props.budget}/>
+                    <InputRadioText changeInput={props.setBudget} text="От 70 000 - 90 000 руб." name="budget3"
+                                    value="budget3" id="От 70 000 - 90 000 руб." checked={props.budget}/>
+                    <InputRadioText changeInput={props.setBudget} text="От 100 000 руб." name="budget4"
+                                    value="budget4" id="От 100 000 руб." checked={props.budget}/>
+                    <InputRadioText changeInput={props.setBudget} text="От 200 000 руб." name="budget5"
+                                    value="budget5" id="От 200 000 руб." checked={props.budget}/>
                 </div>
             </div>
             <NavLink to="/page08" className="buttonGo"> Перейти к шагу 8</NavLink>

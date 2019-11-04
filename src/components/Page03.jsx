@@ -23,7 +23,7 @@ const Page03 = (props) => {
                      style={{width: '36%'}}
                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
-            <div className='w-100'><h2 className='text-center'>Какие фасады вам нравятся больше?</h2></div>
+            <div className='w-100'><h2 className='text-center'>Какой материал фасада Вам нравится?</h2></div>
             <div className="inputContainer">
                 <InputRadio changeInput={props.setFacade} header="Акрил" img={facade01} name="facade" value="facade1"
                             id="Акрил" checked={props.facade}/>
