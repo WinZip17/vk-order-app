@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vk-order-app/static/css/main.6686c255.chunk.css",
-    "main.js": "/vk-order-app/static/js/main.4982fe81.chunk.js",
-    "main.js.map": "/vk-order-app/static/js/main.4982fe81.chunk.js.map",
+    "main.js": "/vk-order-app/static/js/main.c38ea2c5.chunk.js",
+    "main.js.map": "/vk-order-app/static/js/main.c38ea2c5.chunk.js.map",
     "runtime-main.js": "/vk-order-app/static/js/runtime-main.25c57da6.js",
     "runtime-main.js.map": "/vk-order-app/static/js/runtime-main.25c57da6.js.map",
     "static/css/2.0624914a.chunk.css": "/vk-order-app/static/css/2.0624914a.chunk.css",
-    "static/js/2.7139f943.chunk.js": "/vk-order-app/static/js/2.7139f943.chunk.js",
-    "static/js/2.7139f943.chunk.js.map": "/vk-order-app/static/js/2.7139f943.chunk.js.map",
+    "static/js/2.02ecc986.chunk.js": "/vk-order-app/static/js/2.02ecc986.chunk.js",
+    "static/js/2.02ecc986.chunk.js.map": "/vk-order-app/static/js/2.02ecc986.chunk.js.map",
     "index.html": "/vk-order-app/index.html",
-    "precache-manifest.1bc95b0d9a36a1afe6602a4ab20e8e14.js": "/vk-order-app/precache-manifest.1bc95b0d9a36a1afe6602a4ab20e8e14.js",
+    "precache-manifest.b7eb82c74c81093e2e205ef21981677f.js": "/vk-order-app/precache-manifest.b7eb82c74c81093e2e205ef21981677f.js",
     "service-worker.js": "/vk-order-app/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/vk-order-app/static/css/2.0624914a.chunk.css.map",
     "static/css/main.6686c255.chunk.css.map": "/vk-order-app/static/css/main.6686c255.chunk.css.map",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.25c57da6.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.7139f943.chunk.js",
+    "static/js/2.02ecc986.chunk.js",
     "static/css/main.6686c255.chunk.css",
-    "static/js/main.4982fe81.chunk.js"
+    "static/js/main.c38ea2c5.chunk.js"
   ]
 }
