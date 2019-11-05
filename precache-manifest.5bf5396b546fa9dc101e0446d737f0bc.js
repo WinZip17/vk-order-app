@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea3625ba979c7c7ea099009aab7204b3",
+    "revision": "abc1f48bcd516ab42acb970b36ca4238",
     "url": "/vk-order-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "818a37feed738114bb23",
+    "revision": "c840f5a718c959cc7f67",
     "url": "/vk-order-app/static/css/main.6686c255.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app/static/js/2.8c914314.chunk.js"
   },
   {
-    "revision": "818a37feed738114bb23",
-    "url": "/vk-order-app/static/js/main.903441c7.chunk.js"
+    "revision": "c840f5a718c959cc7f67",
+    "url": "/vk-order-app/static/js/main.4471bc25.chunk.js"
   },
   {
     "revision": "848ff1b44fa2a06ef78a",
