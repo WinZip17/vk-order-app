@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf154286d3a1fdb7eb32facd51a8dfec",
+    "revision": "ea3625ba979c7c7ea099009aab7204b3",
     "url": "/vk-order-app/index.html"
   },
   {
