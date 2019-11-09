@@ -3,7 +3,6 @@ import {NavLink} from "react-router-dom";
 import InputRadio from "./InputRadio";
 import WT01 from "../media/worktopType/01.jpg";
 import WT02 from "../media/worktopType/02.jpg";
-import WT03 from "../media/worktopType/03.jpg";
 import WT04 from "../media/worktopType/04.png";
 
 

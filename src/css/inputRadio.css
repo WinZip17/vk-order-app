@@ -10,13 +10,14 @@
 }
 
 .inputRadioImg {
-    width: 100px;
+    width: 120px;
+    border-radius: 5%;
 }
 
 .inputRadioImgShell {
     width: 100%;
     height: 100px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 .inputRadio {

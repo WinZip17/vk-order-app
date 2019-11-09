@@ -25,10 +25,10 @@ let initialState = {
             isKnowSize: true,
         },
         facade: "Акрил",
-        worktopType: "МДФ и ДСП (26мм)",
+        worktopType: "МДФ или ДСП (26мм)",
         hardwareClass: "Эконом",
         installationDate: "Все готово, хоть завтра!",
-        budget: "До 20 000 руб.",
+        budget: "До 50 000 руб.",
         paymentMethod: "Наличными 100%",
         present: "Сертификат до 5000 р."
     },
